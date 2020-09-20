@@ -9,9 +9,12 @@ lerna-debug.log*
 # Discord key
 .env
 
+# User Audio files
+userAudio/*
+
 # GCloud Service Account
 HackMIT-325a18169f1e.json
-
+FightFI-c7f6ffd3dc22.json
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
